@@ -27,12 +27,17 @@ Escolhi a "voz" que gostaria de ter e enviei o texto. Não ficou perfeito, com a
 ### HeyGen, meu editor
 Aí foi difícil escolher o avatar! Não quis subir um vídeo meu, e foi difícil encontrar uma pessoa que tivesse cara de fã de ST. Não sei se encontrei...
 Subi o áudio e aguardei o resultado (demora um pouquinho, mas é só ir tomar um café enquanto a magia acontece).
-Fiquei chocada com a qualidade do lip-sync! Como o avatar que eu escolhi franziu a testa no vídeo, ficou engraçado ver o vídeo com expressões que não combinavam com o texto. Taí uma coisa que quero estudar melhor: alguma ferramenta consegue analisar sentimento e gerar um vídeo, ignorando algo que está pré-gravado?
+Fiquei chocada com a qualidade do lip-sync! Como o avatar que eu escolhi franziu a testa no vídeo, ficou engraçado ver o vídeo com expressões que não combinavam com o texto. 
 
 ## Resultados
 
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Sobre tom de voz
+Sobre expressividade do avatar
+Taí uma coisa que quero estudar melhor: alguma ferramenta consegue analisar sentimento e gerar um vídeo, ignorando algo que está pré-gravado?
 
+---
+
+> *Desenvolvido por Luciane Silva de Miranda como parte do desafio de projeto Natural ou "Fake Natty? Como Vencer na Era das IAs Generativas"*
