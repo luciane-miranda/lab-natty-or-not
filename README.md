@@ -1,12 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Criando um vídeo de com IA - da roteirização ao vídeo final
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Descrição
+O desafio de projeto do curso Nexa - Fundamentos de IA Generativa com Bedrock da DIO é criar um conteúdo com IA. Poderia ser um livro, um podcast, um vídeo...
+Eu resolvi criar um vídeo, desde o roteiro até a crição do vídeo sem intervenção.
+O tema? O tema do momento: Stranger Things. Hoje à noite será a estréia da Season 5, e uma das coisas que mais leio nas redes sociais é: O Steve vai morrer?
+Então pensei nos posts que já vi por ai, nas entrevistas com o Campbell e resolvi criar um post sobre o assunto. Segue aí!
 
 ### Objetivos
 
@@ -26,7 +24,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gemini
+- Claude
+- ElevenLabs
+- HeyGen
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
